@@ -6,7 +6,14 @@
 ### Virtual Machine
 
 ## After installation
-### Guest Additions
+### Guest Additions (VirtualBox)
+1. Insert Guest Additions CD Image (**Devices** tab)
+2. Open the CD you just mounted
+3. In a terminal in the CD's directory run:
+```
+$ sudo ./VBoxLinuxAdditions.run
+```
+
 ### Installing SW with the cmd prompt
 Open a terminal and type the following lines. When necessary type "y" to confirm instalation (Do you want to continue? [Y/n]).
 
