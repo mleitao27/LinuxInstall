@@ -26,6 +26,7 @@ $ sudo apt-get install doxygen
 $ sudo apt-get install doxygen-gui
 $ sudo apt-get install xxgdb
 ```
+
 #### Chrom~~e~~ium
 ```
 $ sudo apt-get install chromium-browser
@@ -48,7 +49,6 @@ $ sudo apt-get install geany
 $ sudo apt-get install kate
 $ sudo apt-get install vim
 ```
-
 ##### Kile for LaTeX
 ```
 $ sudo apt-get install kile
@@ -59,6 +59,20 @@ $ sudo apt-get install kile
 $ sudo apt-get install git
 ```
 *check bellow for a nice git client (GitKraken)*
+
+#### Python
+##### v2
+```
+$ sudo apt-get install python-dev
+$ sudo apt-get install python-pip
+$ sudo apt-get install ipython
+```
+##### v3
+```
+$ sudo apt-get install python3-dev
+$ sudo apt-get install python-pip3
+$ sudo apt-get install ipython3
+```
 
 #### SDL library
 ##### v1
@@ -83,5 +97,8 @@ $ sudo apt-get install libsdl2-ttf-dev
 $ sudo apt-get install codeblocks
 $ sudo apt-get install codeblocks-contrib
 ```
+
 ### GitKraken (Git Client)
-Visit the [GitKraken](https://www.gitkraken.com/download) page for the latest version. Download the [Linux(.deb)](https://www.gitkraken.com/download/linux-deb) option. After download click on the file and when the window pop up click on the **Install** button.
+1. Visit the [GitKraken](https://www.gitkraken.com/download) page for the latest version
+2. Download the [Linux(.deb)](https://www.gitkraken.com/download/linux-deb) option
+3. After download click on the file and when the window pop up click on the **Install** button
