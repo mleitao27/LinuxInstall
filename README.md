@@ -25,12 +25,6 @@ $ sudo apt-get install chromium-browser
 ```
 
 #### Some editors
-```
-$ sudo apt-get install gedit
-$ sudo apt-get install geany
-$ sudo apt-get install kate
-$ sudo apt-get install vim
-```
 ##### Sublime Text (The Best!!!)
 ```
 $ wget -qO - https://download.sublimetext.com/sublimehq-pub.gpg | sudo apt-key add -
@@ -39,6 +33,13 @@ $ echo "deb https://download.sublimetext.com/ apt/stable/" | sudo tee /etc/apt/s
 $ echo "deb https://download.sublimetext.com/ apt/dev/" | sudo tee /etc/apt/sources.list.d/sublime-text.list
 $ sudo apt-get update
 $ sudo apt-get install sublime-text
+```
+##### Others
+```
+$ sudo apt-get install gedit
+$ sudo apt-get install geany
+$ sudo apt-get install kate
+$ sudo apt-get install vim
 ```
 
 ##### Kile for LaTeX
