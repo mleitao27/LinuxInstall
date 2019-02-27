@@ -110,7 +110,7 @@ $ sudo apt-get install codeblocks-contrib
 3. After download click on the file and when the window pop up click on the **Install** button
 
 <!---TODO-->
-[comment]: <> (eclipse)
-[comment]: <> (vlc)
-[comment]: <> (atom)
-[comment]: <> (java)
+<!---eclipse-->
+<!---vlc-->
+<!---atom-->
+<!---java-->
