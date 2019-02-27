@@ -8,19 +8,12 @@
 /*Under construction*/
 
 ## After installation
-### Guest Additions (VirtualBox)
-1. Insert Guest Additions CD Image (**Devices** tab)
-2. Open the CD you just mounted
-3. In a terminal in the CD's directory run:
-```
-$ sudo ./VBoxLinuxAdditions.run
-```
-
 ### Installing SW with the cmd prompt
 Open a terminal and type the following lines. When necessary type "y" to confirm instalation (Do you want to continue? [Y/n]). After installing all the packages you want from the list bellow make sure you run in the terminal:
 ```
 $ sudo apt-get update
 $ sudo apt-get upgrade
+$ sudo apt-get reboot
 ```
 
 #### Some essentials
@@ -108,6 +101,14 @@ $ sudo apt-get install codeblocks-contrib
 1. Visit the [GitKraken](https://www.gitkraken.com/download) page for the latest version
 2. Download the [Linux(.deb)](https://www.gitkraken.com/download/linux-deb) option
 3. After download click on the file and when the window pop up click on the **Install** button
+
+### Guest Additions (VirtualBox)
+1. Insert Guest Additions CD Image (**Devices** tab)
+2. Open the CD you just mounted
+3. In a terminal in the CD's directory run:
+```
+$ sudo ./VBoxLinuxAdditions.run
+```
 
 <!---TODO-->
 <!---eclipse-->
