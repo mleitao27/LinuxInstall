@@ -77,4 +77,4 @@ $ sudo apt-get install codeblocks
 $ sudo apt-get install codeblocks-contrib
 ```
 ### GitKraken (Git Client)
-Visit the [GitKraken site](https://www.gitkraken.com/download) for the latest version. Download the [Linux(.deb)](https://www.gitkraken.com/download/linux-deb) option. After download click on the file and when the window pop up click on the *Install* button.
+Visit the [GitKraken](https://www.gitkraken.com/download) page for the latest version. Download the [Linux(.deb)](https://www.gitkraken.com/download/linux-deb) option. After download click on the file and when the window pop up click on the **Install** button.
