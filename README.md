@@ -109,7 +109,7 @@ $ sudo apt-get install codeblocks-contrib
 2. Download the [Linux(.deb)](https://www.gitkraken.com/download/linux-deb) option
 3. After download click on the file and when the window pop up click on the **Install** button
 
-[comment]: <> (TODO)
+<!---TODO-->
 [comment]: <> (eclipse)
 [comment]: <> (vlc)
 [comment]: <> (atom)
