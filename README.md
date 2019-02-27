@@ -3,7 +3,9 @@
 
 ## Where to install
 ### Dual Boot
+/*Under construction*/
 ### Virtual Machine
+/*Under construction*/
 
 ## After installation
 ### Guest Additions (VirtualBox)
@@ -15,7 +17,11 @@ $ sudo ./VBoxLinuxAdditions.run
 ```
 
 ### Installing SW with the cmd prompt
-Open a terminal and type the following lines. When necessary type "y" to confirm instalation (Do you want to continue? [Y/n]).
+Open a terminal and type the following lines. When necessary type "y" to confirm instalation (Do you want to continue? [Y/n]). After installing all the packages you want from the list bellow make sure you run in the terminal:
+```
+$ sudo apt-get update
+$ sudo apt-get upgrade
+```
 
 #### Some essentials
 ```
@@ -102,3 +108,9 @@ $ sudo apt-get install codeblocks-contrib
 1. Visit the [GitKraken](https://www.gitkraken.com/download) page for the latest version
 2. Download the [Linux(.deb)](https://www.gitkraken.com/download/linux-deb) option
 3. After download click on the file and when the window pop up click on the **Install** button
+
+[comment]: <> (TODO)
+[comment]: <> (eclipse)
+[comment]: <> (vlc)
+[comment]: <> (atom)
+[comment]: <> (java)
