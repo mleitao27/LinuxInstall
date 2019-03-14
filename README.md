@@ -70,6 +70,17 @@ $ sudo apt-get install python-pip3
 $ sudo apt-get install ipython3
 ```
 
+#### Wireshark
+```
+$ sudo apt-get install wireshark
+```
+Having problems in first use? Try:
+```
+$ sudo dpkg-reconfigure wireshark-common
+$ sudo chmod +x /usr/bin/dumpcap
+$ sudo gpasswd -a $USER wireshark
+```
+
 #### SDL library
 ##### v1
 ```
