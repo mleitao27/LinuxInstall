@@ -13,7 +13,7 @@ Open a terminal and type the following lines. When necessary type "y" to confirm
 ```
 $ sudo apt-get update
 $ sudo apt-get upgrade
-$ sudo apt-get reboot
+$ sudo reboot
 ```
 
 #### Some essentials
@@ -66,7 +66,7 @@ $ sudo apt-get install ipython
 ##### v3
 ```
 $ sudo apt-get install python3-dev
-$ sudo apt-get install python-pip3
+$ sudo apt-get install python3-pip
 $ sudo apt-get install ipython3
 ```
 
